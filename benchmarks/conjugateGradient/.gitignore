@@ -1,0 +1,12 @@
+*.pyc
+out/
+simfab_traces/
+sim.log
+simconfig.json
+fabric.json
+cs_hio_config_files/
+sim_stats.json
+wio_flow.json
+result.csv
+
+!patched_runtime_libs_0.6/*.so
